@@ -23,3 +23,22 @@ Frontend: React, Material-UI, JavaScript
 Backend: Node.js (mention your backend choice)
 
 APIs Used: Google Maps API, Travel Advisor API
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vaishnaviub/travel-advisor.git
+
+2. **Navigate to the project directory:**
+   ```bash
+   cd travel-advisor
+
+3. **Install dependencies:**
+   ```bash
+   npm install
+
+4. **Start the application:**
+   ```bash
+   npm start
+
