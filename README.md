@@ -46,3 +46,14 @@ APIs Used: Google Maps API, Travel Advisor API
 
 ![Image](https://github.com/user-attachments/assets/bff199fc-79af-4a85-bb7e-57c5c9b90765)
 
+🤝 Contributing
+
+Contributions are welcome! If you'd like to improve the app, please fork the repository and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+🌟 If you like this project, give it a star on GitHub!
+
+
